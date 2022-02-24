@@ -1,0 +1,13 @@
+<AppUpdater>
+  <update>
+    <latestVersion>7.8</latestVersion>
+    <latestVersionCode>129</latestVersionCode>
+    <url>https://github.com/farizmcpe/Mc-Downloader/releases/download/v1.5/Mc.Downloader.1.5.apk</url>
+    <releaseNotes>
+-Added CheckUpdatw
+-Added StartScreen
+-Removed SplashScreen
+-New Change ui option
+    </releaseNotes>
+  </update>
+</AppUpdater>
