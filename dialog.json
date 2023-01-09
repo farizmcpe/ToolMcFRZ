@@ -1,0 +1,35 @@
+{
+ "message": [
+  {
+   "title": "Welcome To ToolMcFRZ",
+   "message": "Made by FARIZ MCPE",
+   "cancelable": false,
+   "show": true,
+   "show_on": 0,
+   "show_count": 8,
+   "preference_key": "mydialog",
+   "positive": {
+    "label": "Close",
+    "on_click": "close",
+    "link": "null",
+    "show": true
+   },
+   "negative": {
+    "label": "Download Installer",
+    "on_click": "open_link",
+    "link": "",
+    "show": true
+   },
+   "neutral": {
+    "label": "Subscribe FARIZ MCPE",
+    "on_click": "open_link",
+    "link": "https://youtube.com/c/FARIZMCPE",
+    "show": true
+   }
+  }
+ ]
+}
+
+
+
+JSON
