@@ -15,9 +15,9 @@
     "show": true
    },
    "negative": {
-    "label": "Download Installer",
+    "label": "Discord Server",
     "on_click": "open_link",
-    "link": "",
+    "link": "https://discord.gg/CmMt92P65R",
     "show": true
    },
    "neutral": {
