@@ -4,7 +4,7 @@
    "title": "Welcome To ToolMcFRZ",
    "message": "Made by FARIZ MCPE",
    "cancelable": false,
-   "show": true,
+   "show": false,
    "show_on": 0,
    "show_count": 2,
    "preference_key": "mydialog",
@@ -12,7 +12,7 @@
     "label": "Close",
     "on_click": "close",
     "link": "null",
-    "show": false
+    "show": true
    },
    "negative": {
     "label": "Discord Server",
