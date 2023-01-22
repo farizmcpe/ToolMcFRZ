@@ -12,7 +12,7 @@
     "label": "Close",
     "on_click": "close",
     "link": "null",
-    "show": false
+    "show": true
    },
    "negative": {
     "label": "Discord Server",
