@@ -6,13 +6,13 @@
    "cancelable": false,
    "show": true,
    "show_on": 0,
-   "show_count": 8,
+   "show_count": 2,
    "preference_key": "mydialog",
    "positive": {
     "label": "Close",
     "on_click": "close",
     "link": "null",
-    "show": true
+    "show": false
    },
    "negative": {
     "label": "Discord Server",
