@@ -5,7 +5,7 @@
    "message": "Made by FARIZ MCPE",
    "cancelable": false,
    "show": true,
-   "show_on": 0,
+   "show_on": 10,
    "show_count": 2,
    "preference_key": "mydialog",
    "positive": {
