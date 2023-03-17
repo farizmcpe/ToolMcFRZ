@@ -15,13 +15,13 @@
     "show": true
    },
    "negative": {
-    "label": "Discord Server",
+    "label": "Discord",
     "on_click": "open_link",
     "link": "https://discord.gg/6eYEs9qWwF",
     "show": true
    },
    "neutral": {
-    "label": "Subscribe FARIZ MCPE",
+    "label": "Subscribe",
     "on_click": "open_link",
     "link": "https://youtube.com/c/FARIZMCPE",
     "show": true
