@@ -4,7 +4,7 @@
    "title": "Welcome To ToolMcFRZ",
    "message": "Made by FARIZ MCPE",
    "cancelable": false,
-   "show": true,
+   "show": false,
    "show_on": 10,
    "show_count": 2,
    "preference_key": "mydialog",
