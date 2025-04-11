@@ -31,6 +31,6 @@ Released: **May 17, 2024**
 
 ## Credits
 
-Developed with love by **farizmcpe** 
+Made with ❤️ by **farizmcpe** 
 
 ---
